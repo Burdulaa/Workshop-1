@@ -1,10 +1,10 @@
 # Workshop-1
 
-This repository contains my first ever website – a simple single-page static site built to practice basic HTML. :contentReference[oaicite:0]{index=0}
+This repository contains my first ever website – a simple single-page static site built to practice basic HTML
 
 ## Features
 
-- Single HTML page: `index.html` :contentReference[oaicite:1]{index=1}  
+- Single HTML page: `index.html`
 - Basic static layout (no backend, no database)
 - Runs entirely in the browser
 
